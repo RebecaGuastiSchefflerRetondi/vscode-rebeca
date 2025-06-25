@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+#principal{
+    width: 90%;
+    height: 800px;
+    background-color: salmon;
+    margin: auto;
+    background-image: url("https://s.calendarr.com/upload/datas/na/tu/natureza.jpg?width=640");
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: 600px 500px;
+}
+
+#secundario{
+    width: 90%;
+    height: 800px;
+    background-color: salmon;
+    margin: auto;
+    background-image: url("https://mediatalks.uol.com.br/wp-content/uploads/2023/12/Sapo-flores-Wikicommons-fotografia-de-natureza-e1673630178143.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: 600px 500px;
+}
