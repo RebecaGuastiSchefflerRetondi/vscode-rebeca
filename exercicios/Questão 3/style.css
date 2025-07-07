@@ -1,0 +1,21 @@
+#Arial{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 0, 0);
+}
+#Times{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(1, 226, 31);
+    font-size: 22px;
+}
+#Comic{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(76, 0, 255);
+    font-size: 20px;
+     font-style: oblique
+}
+#pagina{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(217, 255, 0);
+    font-size: 14px;
+     font-style: oblique
+}

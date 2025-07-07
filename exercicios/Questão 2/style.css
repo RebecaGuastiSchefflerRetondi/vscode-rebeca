@@ -1,0 +1,49 @@
+div{
+    background-color: greenyellow;
+}
+img{
+    text-align: center
+}
+#bem10{
+   width: 60%;
+    height: 262px;
+    background-color: brown;
+    margin: auto;
+    background-image: url("https://th.bing.com/th/id/OIP.0uwk40CHcOIgPc2Ah-wM8QHaEo?rs=1&pid=ImgDetMain&cb=idpwebpc2");
+    background-repeat: no-repeat;
+}
+.bem100{
+    width: 60%;
+    height: 262px;
+    background-color: brown;
+    margin: auto;
+    background-image: url("https://th.bing.com/th/id/OIP.aekUtCLCoLbIGvDzcDcH-gHaEK?rs=1&pid=ImgDetMain&cb=idpwebpc2");
+    background-repeat: no-repeat;
+}
+#bem1000{
+    width: 60%;
+    height: 262px;
+    background-color: brown;
+    margin: auto;
+    background-image: url("https://th.bing.com/th/id/OIP.f66h5bV4aYRLTUXc3zabigHaEK?rs=1&pid=ImgDetMain&cb=idpwebpc2");
+    background-repeat: no-repeat;
+}
+#bem10000{
+    width: 90%;
+    height: 800px;
+    background-color: rgb(255, 251, 0);
+    margin: auto;
+    background-image: url("https://th.bing.com/th/id/OIP.0uwk40CHcOIgPc2Ah-wM8QHaEo?rs=1&pid=ImgDetMain&cb=idpwebpc2");
+    background-repeat: no-repeat;
+     background-position: center;
+}
+#bem100000{
+    width: 90%;
+    height: 800px;
+    background-color: rgb(255, 251, 0);
+    margin: auto;
+    background-image: url("https://th.bing.com/th/id/OIP.0uwk40CHcOIgPc2Ah-wM8QHaEo?rs=1&pid=ImgDetMain&cb=idpwebpc2");
+    background-repeat: no-repeat;
+     background-position: center;
+    background-attachment: fixed
+}
