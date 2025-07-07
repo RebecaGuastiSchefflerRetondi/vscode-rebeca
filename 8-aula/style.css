@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Kapakana:wght@300..400&display=swap');
+body{
+    background-color: lightpink;
+    color:white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    background-color: rgb(253, 232, 207);
+}
+#na-direita{
+    text-align: right;
+}
+
+#na-esquerda{
+    text-align: left;
+}
+#no-centro{
+    text-align: center;
+}
+ 
+#Justificado{
+    text-align: justify;
+}
+
+#maiusculo{
+    text-transform: uppercase;
+}
+
+#minusculo{
+    text-transform: lowercase ;
+}
+
+#capital{
+    text-transform: capitalize ;
+}
+h1{
+    font-size:80px;
+    font-weight: 500;
+    text-shadow: 5px 5px rgb(253, 232, 207);
+}
+
+#decorado{
+    text-decoration: underline;
+}
+footer{
+    text-align: center;
+}
+
+#outrafonte{
+    font-family:'Courier New', Courier, monospace;
+}
+
+#fontegoogle{
+    font-family: 'Kapakana', sans-serif;
+}
+
+@font-face {
+    font-family: 'CormoranteGaramond';
+    src: url('./fontes/CormorantGaramond-VariableFont_wght.ttf');
+}
+
+#fontegoogle2{
+    font-family: 'CormoranteGaramond', serif;
+}
